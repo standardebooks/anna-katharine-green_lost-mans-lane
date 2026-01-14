@@ -17,7 +17,7 @@ section[epub|type~="dedication"]{
 
 section[epub|type~="dedication"] > p{
 	font-variant: all-small-caps;
-	line-height: 2em;
+	line-height: 2;
 	text-indent: 0;
 }
 
