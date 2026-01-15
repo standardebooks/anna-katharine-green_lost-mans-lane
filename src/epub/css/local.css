@@ -68,3 +68,7 @@ figure img{
 blockquote[epub|type~="z3998:diary-entry"]{
 	margin: 0 0 1em;
 }
+
+#preface footer{
+	font-variant: small-caps;
+}
