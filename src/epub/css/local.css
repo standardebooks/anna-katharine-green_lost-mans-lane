@@ -15,20 +15,6 @@ section[epub|type~="dedication"]{
 	text-align: center;
 }
 
-section[epub|type~="dedication"] > p{
-	font-variant: all-small-caps;
-	line-height: 2;
-	text-indent: 0;
-}
-
-section[epub|type~="dedication"] > p:nth-of-type(1){
-	font-variant: small-caps;
-}
-
-section[epub|type~="dedication"] > p:nth-of-type(2){
-	font-size: larger;
-}
-
 section[epub|type~="dedication"] > *{
 	display: inline-block;
 	margin: auto;
@@ -72,3 +58,10 @@ blockquote[epub|type~="z3998:diary-entry"]{
 #preface footer{
 	font-variant: small-caps;
 }
+
+/* Custom CSS */
+section[epub|type~="dedication"]{
+	font-variant: small-caps;
+	line-height: 2;
+}
+/* End Custom CSS */
