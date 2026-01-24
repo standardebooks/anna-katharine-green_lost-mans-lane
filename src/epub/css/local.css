@@ -51,10 +51,6 @@ figure img{
 	max-width: 100%;
 }
 
-blockquote[epub|type~="z3998:diary-entry"]{
-	margin: 0 0 1em;
-}
-
 #preface footer{
 	font-variant: small-caps;
 }
@@ -63,5 +59,10 @@ blockquote[epub|type~="z3998:diary-entry"]{
 section[epub|type~="dedication"]{
 	font-variant: small-caps;
 	line-height: 2;
+}
+
+blockquote[epub|type~="z3998:diary-entry"]{
+	margin-left: 0;
+	margin-right: 0;
 }
 /* End Custom CSS */
