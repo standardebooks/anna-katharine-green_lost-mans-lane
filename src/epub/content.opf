@@ -44,7 +44,7 @@
 		<meta id="collection-2" property="belongs-to-collection">Amelia Butterworth</meta>
 		<meta property="collection-type" refines="#collection-2">series</meta>
 		<meta property="group-position" refines="#collection-2">2</meta>
-		<dc:description id="description">A citizen detective investigates mysteerious disappearances in an isolated village.</dc:description>
+		<dc:description id="description">A citizen detective investigates mysterious disappearances in an isolated village.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;New York detective &lt;a href="https://standardebooks.org/collections/mr-gryce"&gt;Ebenezer Gryce&lt;/a&gt; enlists &lt;a href="https://standardebooks.org/collections/amelia-butterworth"&gt;Amelia Butterworth&lt;/a&gt; to help investigate a series of mysterious disappearances in a village in the Berkshire Hills. Miss Butterworth stays with the family of an old friend in their decaying estate in the village. She discovers a web of deceptions and works with Mr. Gryce to untangle the threads and discover the fate of the “lost men” and the secrets of her friend’s family.&lt;/p&gt;
 		</meta>
