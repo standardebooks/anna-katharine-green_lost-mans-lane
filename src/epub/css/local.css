@@ -60,6 +60,7 @@ p[epub|type~="z3998:salutation"]{
 }
 /* end standard bridgehead CSS */
 
+/* standard figure CSS */
 figure{
 	break-inside: avoid;
 	margin: 1em 2.5em;
@@ -71,10 +72,7 @@ figure img{
 	max-height: 100vh;
 	max-width: 100%;
 }
-
-#preface footer{
-	font-variant: small-caps;
-}
+/* end standard figure CSS */
 
 /* Custom CSS */
 section[epub|type~="dedication"]{
