@@ -75,7 +75,7 @@ figure img{
 /* end standard figure CSS */
 
 /* Custom CSS */
-section[epub|type~="dedication"]{
+#dedication{
 	font-variant: small-caps;
 	line-height: 2;
 }
