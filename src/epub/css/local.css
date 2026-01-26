@@ -80,6 +80,10 @@ figure img{
 	line-height: 2;
 }
 
+#dedication b{
+	font-size: larger;
+}
+
 blockquote[epub|type~="z3998:diary-entry"]{
 	margin-left: 0;
 	margin-right: 0;
